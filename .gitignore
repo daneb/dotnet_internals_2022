@@ -1,0 +1,15 @@
+.vs
+.idea/*
+.idea/.idea.AdaptivConnectorService/*
+!.idea/.idea.AdaptivConnectorService/.idea
+
+.idea/.idea.AdaptivConnectorService/.idea/*
+!.idea/.idea.AdaptivConnectorService/.idea/runConfigurations
+!.idea/.idea.AdaptivConnectorService/.idea/indexLayout.xml
+!.idea/.idea.AdaptivConnectorService/.idea/vcs.xml
+
+**/bin
+**/obj
+**/.vs
+*.user
+/publish
